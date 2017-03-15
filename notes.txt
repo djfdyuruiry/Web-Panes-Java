@@ -1,0 +1,18 @@
+=====================
+Web Browsers JavaFx POC
+=====================
+
+WebView Tutorial: https://docs.oracle.com/javafx/2/webview/jfxpub-webview.htm
+Java CEF Implementation (Almost supports JavaFx): https://bitbucket.org/chromiumembedded/java-cef
+
+Dependency Injection for JavaFx:
+    https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html
+    http://gluonhq.com/labs/ignite/
+
+-> Looks like the WebView will be sufficient but it would be excellent to use a Chromium derivative
+-> UI and Controllers seem OK in JavaFx, no major complaints making v simple POC
+
+Auto-fill for Username & Password:
+    https://stackoverflow.com/questions/19038369/fill-fields-webview-in-java-automatically
+
+JavaFx & Gradle (includes installer building etc.): https://github.com/FibreFoX/javafx-gradle-plugin
